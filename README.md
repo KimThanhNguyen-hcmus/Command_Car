@@ -43,10 +43,12 @@ The project demonstrates embedded firmware development concepts including:
 
 ## Schematic
 
-<figure style="display: flex; flex-direction: column; align-items: center; margin: 20px auto;">
-    <img src="Images\Screenshot 2026-05-14 090106.png" width="800" alt="Command Car">
-    <figcaption style="margin-top: 10px;">Figure 1: Command Car Schematic</figcaption>
-</figure>
+<table align="center">
+  <tr>
+    <td align="center"><img src="Images/Screenshot 2026-05-14 090106.png" alt="Command Car" width="800"/></td>
+  </tr>
+</table>
+<p align="center"><strong><em>Figure 1:</em></strong> Command Car Schematic</p>
 
 ## Features
 
@@ -81,10 +83,12 @@ The project demonstrates embedded firmware development concepts including:
 
 ## App
 
-<figure style="display: flex; flex-direction: column; align-items: center; margin: 20px auto;">
-    <img src="Images\Screenshot 2026-05-18 101738.png" width="400" alt="App">
-    <figcaption style="margin-top: 10px;">Figure 2: User's Interface (GUI)</figcaption>
-</figure>
+<table align="center">
+  <tr>
+    <td align="center"><img src="Images/Screenshot 2026-05-18 101738.png" alt="App" width="400"/></td>
+  </tr>
+</table>
+<p align="center"><strong><em>Figure 2:</em></strong> User's Interface (GUI)</p>
 
 ## System Operating Principle
 
