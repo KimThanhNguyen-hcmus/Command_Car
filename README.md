@@ -82,7 +82,7 @@ The project demonstrates embedded firmware development concepts including:
 ## App
 
 <figure style="text-align: center;">
-    <img src="Images\Screenshot 2026-05-18 101738.png" width="800" alt="App">
+    <img src="Images\Screenshot 2026-05-18 101738.png" width="500" alt="App">
     <figcaption style = "text-align: center">Figure 2: User's Interface (GUI)</figcaption>
 </figure>
 
@@ -139,11 +139,11 @@ I also document my daily progress, bugs and approachs about RTOS in Notion.
 <h3>Contact Me</h3>
 
 <p>
-  <a href="https://github.com/HotIveTea">
-    <img src="https://img.shields.io/badge/GitHub-HotIveTea-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/KimThanhNguyen1409">
+    <img src="https://img.shields.io/badge/GitHub-NguyenKimThanh-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   
-  <a href="https://www.linkedin.com/in/nguyễn-kim-thành-5ba280389/">
+  <a href="https://www.linkedin.com/in/nguyenkimthanh1409/">
     <img src="https://img.shields.io/badge/LinkedIn-Nguyễn%20Kim%20Thành-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   
