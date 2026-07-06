@@ -142,7 +142,7 @@ I also document my daily progress, bugs and approachs about RTOS in Notion.
   <a href="https://github.com/KimThanhNguyen1409">
     <img src="https://img.shields.io/badge/GitHub-NguyenKimThanh-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  
+    
   <a href="https://www.linkedin.com/in/nguyenkimthanh1409/">
     <img src="https://img.shields.io/badge/LinkedIn-Nguyễn%20Kim%20Thành-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
